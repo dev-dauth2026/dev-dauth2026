@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dauth Gurung</h1>
 <h3 align="center">A passionate Web Developer</h3>
 <div align="center"></div>![Animated GIF](path/to/your/animated-gif.gif)</div>
-<img src="path/to/your/animated-gif.gif" width="400" alt="coding">
+<img src="path/to/your/coding gif.gif" width="400" alt="coding">
  👨‍💻 All of my projects are available at [https://github.com/dev-dauth2026](https://github.com/dev-dauth2026)
 
 - 📫 How to reach me **dauth22grg22@gmail.com**
