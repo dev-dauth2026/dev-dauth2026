@@ -1,3 +1,4 @@
+![logo](https://github.com/dev-dauth2026/dev-dauth2026/blob/main/Web%20Developer.png)
 <h1 align="center">Hi 👋, I'm Dauth Gurung</h1>
 <h3 align="center">A passionate Web Developer</h3>
 <img align="right" src="coding gif.gif" width="400" alt="coding" >
