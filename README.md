@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dauth Gurung</h1>
-<h3 align="center">A passionate Web Developer</h3>
+<h3 align="center">A passionate Web Developer | Automation Tester</h3>
 <img align="right" src="coding gif.gif" width="400" alt="coding" >
 
 <h3 align="left">Connect with me:</h3>
