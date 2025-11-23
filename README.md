@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dauth Gurung</h1>
-<h3 align="center">A passionate Web Developer | Software/Automation Tester</h3>
+<h3 align="center">A passionate Software Developer | Software/Automation Tester</h3>
 <img align="right" src="coding gif.gif" width="400" alt="coding" >
 
 <h3 align="left">Connect with me:</h3>
@@ -49,6 +49,3 @@
 
 </p>
 
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-dauth2026&show_icons=true&locale=en" alt="dev-dauth2026" />
-</p>
